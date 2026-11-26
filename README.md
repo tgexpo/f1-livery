@@ -2,6 +2,8 @@
 
 Color direction cards for all 11 teams on the 2026 F1 grid.
 
+**Live:** https://tgexpo.github.io/f1-livery/
+
 ## What It Renders
 
 A dark-themed card grid where each team gets:
