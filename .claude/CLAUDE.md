@@ -43,7 +43,7 @@ Team data lives in `teams.json`; components and renderer logic in `f1-livery-des
 
 ## Deployment
 
-- **Live URL:** https://trev-gulls.github.io/f1-livery/
+- **Live URL:** https://tgexpo.github.io/f1-livery/
 - **Workflow:** `.github/workflows/deploy.yml` — push to `main` triggers build + deploy
 - **Base path:** `base: '/f1-livery/'` in `vite.config.js` — all public asset paths must use `import.meta.env.BASE_URL`
 - **Guide:** `docs/DEPLOY.md`

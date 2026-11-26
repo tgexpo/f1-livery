@@ -1,7 +1,7 @@
 # Deployment Guide
 
 The F1 Livery Design System is deployed to GitHub Pages at:
-**https://trev-gulls.github.io/f1-livery/**
+**https://tgexpo.github.io/f1-livery/**
 
 ## How It Works
 
@@ -42,4 +42,4 @@ bun scripts/capture-og.mjs
 
 - **Source:** GitHub Actions (not branch-based)
 - **Repo setting:** Settings > Pages > Build and deployment > GitHub Actions
-- **Custom domain:** None (uses default `trev-gulls.github.io/f1-livery/`)
+- **Custom domain:** None (uses default `tgexpo.github.io/f1-livery/`)
